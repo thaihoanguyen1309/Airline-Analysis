@@ -26,7 +26,7 @@ Dự án tập trung vào việc xây dựng mô hình học máy để dự bá
 * **Mô hình tối ưu:** XGBoost Classifier đạt độ chính xác 0.94%.
 ![Kết quả đánh giá mô hình](image.png)
 * **Phát hiện quan trọng:** Xác định được các yếu tố như `Inflight entertainment`, `Inflight wifi service` và `Online booking` là những yếu tố ảnh hưởng mạnh nhất đến sự hài lòng.
-* **Ứng dụng:** File demo giúp bộ phận CSKH có thể tải lên danh sách hành khách sau chuyến bay để lọc ra ngay những khách hàng cần chăm sóc đặc biệt.
+* **Ứng dụng:** Gradio giúp bộ phận CSKH có thể tải lên danh sách hành khách sau chuyến bay để lọc ra ngay những khách hàng cần chăm sóc đặc biệt.
 
 ---
 
